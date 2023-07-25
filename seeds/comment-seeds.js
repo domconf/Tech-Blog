@@ -1,4 +1,3 @@
-const { Cookie } = require('express-session');
 const { Comment } = require('../models');
 
 const commentData = [
